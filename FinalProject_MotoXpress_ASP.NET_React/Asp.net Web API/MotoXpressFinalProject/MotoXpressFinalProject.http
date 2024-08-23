@@ -1,0 +1,6 @@
+@MotoXpressFinalProject_HostAddress = http://localhost:5074
+
+GET {{MotoXpressFinalProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

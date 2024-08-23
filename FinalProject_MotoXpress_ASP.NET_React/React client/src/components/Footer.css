@@ -1,0 +1,30 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    width: 100%;
+    padding: 20px 0;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer .bi {
+    font-size: 1.5rem;
+  }
+  
+  .footer .list-inline-item {
+    margin-right: 10px;
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+  }
+  

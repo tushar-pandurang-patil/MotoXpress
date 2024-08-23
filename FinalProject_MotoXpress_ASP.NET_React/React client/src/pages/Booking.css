@@ -1,0 +1,24 @@
+.booking-card {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 85%;
+  }
+  
+  .bike-image {
+    width: 400px;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 767px) {
+    .booking-card {
+      flex-direction: column;
+    }
+  
+    .bike-image {
+      width: 100%;
+      height: auto;
+    }
+  }
+  

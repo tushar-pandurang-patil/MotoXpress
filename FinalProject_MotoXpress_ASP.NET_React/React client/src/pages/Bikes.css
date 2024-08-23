@@ -1,0 +1,70 @@
+.bikes-page {
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
+    flex-direction: column; /* Ensure the content flows vertically */
+  }
+  
+  .sidebar {
+    width: 100%;
+    padding-right: 20px;
+  }
+  
+  
+  .bike-cards-container {
+    width: 100%; /* Change to 100% to make it full width */
+    margin-top: 20px; /* Add space from the sort tabs */
+  }
+  
+  .bike-card-book {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative; /* Add this for relative positioning */
+    transition: all 0.5s;
+  }
+
+  .bike-card-book:hover {
+    transform: scale(1.08);
+  }
+  
+  .bike-card-book img {
+    height: 170px;
+    object-fit: cover;
+  }
+  
+  .bike-card-book .btn {
+    position: absolute; /* Make the button position absolute */
+    bottom: 20px; /* Distance from the bottom of the card */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+    width: 80%;
+  }
+  
+  .sort-tabs {
+    display: flex;
+    justify-content: center; /* Center the sorting tabs */
+    padding: 10px 0;
+    width: 200%; /* Ensure it takes full width */
+    transition: all 3s;
+  }
+  .sort-tabs span:hover{
+    transform: scale(1.08);
+  }
+  
+  .sort-tabs span {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 2px solid transparent;
+  }
+  
+  .sort-tabs span.active {
+    border-bottom: 2px solid #ffc107; /* Yellow underline like the image */
+  }
+  
+  .custom-datetime-picker {
+    width: 110%; /* Adjust width to the desired size */
+  }
+  

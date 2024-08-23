@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|c:\\users\\tusha\\documents\\ms.net\\workspace\\motoxpressfinalproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|c:\\users\\tusha\\documents\\ms.net\\workspace\\motoxpressfinalproject\\controllers\\userprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|solutionrelative:controllers\\userprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MotoXpressFinal/True/SqlTable/dbo.userprofiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MotoXpressFinal/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|c:\\users\\tusha\\documents\\ms.net\\workspace\\motoxpressfinalproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|c:\\users\\tusha\\documents\\ms.net\\workspace\\motoxpressfinalproject\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|c:\\users\\tusha\\documents\\ms.net\\workspace\\motoxpressfinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|c:\\users\\tusha\\documents\\ms.net\\workspace\\motoxpressfinalproject\\controllers\\bikescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA1613A-2BE9-48E4-BD15-58522369F094}|MotoXpressFinalProject.csproj|solutionrelative:controllers\\bikescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:26:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAYwCQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:56:17.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserprofilesController.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Controllers\\UserprofilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserprofilesController.cs",
+              "ToolTip": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Controllers\\UserprofilesController.cs",
+              "RelativeToolTip": "Controllers\\UserprofilesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAF0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:11:34.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MotoXpressFinal/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T06:01:54.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.userprofiles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MotoXpressFinal/True/SqlTable/dbo.userprofiles.sql",
+              "ToolTip": "dbo.userprofiles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T06:01:38.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Userprofile.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Models\\Userprofile.cs",
+              "RelativeDocumentMoniker": "Models\\Userprofile.cs",
+              "ToolTip": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Models\\Userprofile.cs",
+              "RelativeToolTip": "Models\\Userprofile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:26:09.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T02:30:10.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BikesController.cs",
+              "DocumentMoniker": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Controllers\\BikesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BikesController.cs",
+              "ToolTip": "C:\\Users\\tusha\\Documents\\MS.NET\\Workspace\\MotoXpressFinalProject\\Controllers\\BikesController.cs",
+              "RelativeToolTip": "Controllers\\BikesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:48:03.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
